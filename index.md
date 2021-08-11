@@ -5,26 +5,26 @@
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Reyhaneh
++ last name : Shahnazi
++ Date of birth : 1987/July/11
++ I am the manager of a medical center
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ trade on Tehran Stock Exchange
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Fatemieh Conservatory
++ Computer Software Associate
++ Bachelor of Computer Software
+_ payam Noor University of Sout 
 
 ### language
 
@@ -35,15 +35,15 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
++ Tailoring
++ study book
 + travel 
 + playing volleyball
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I have work experience in school administration
 
 
 
